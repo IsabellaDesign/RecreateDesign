@@ -1,0 +1,14 @@
+.imagebeer {
+  display: grid;
+  place-items: center;
+}
+
+section {
+  display: grid;
+  grid-template-columns: 300px 1fr;
+}
+
+nav {
+  display: flex;
+  justify-content: flex-end;
+}
